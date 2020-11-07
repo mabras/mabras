@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="DAMINE Spotify Playing" width="350" />](https://open.spotify.com/user/1214570306)
+[<img src="https://novatorem-silk-seven.vercel.app/api/spotify" alt="mabras Spotify Playing" width="350" />](https://open.spotify.com/user/1214570306)
 
