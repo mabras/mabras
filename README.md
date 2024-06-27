@@ -1,18 +1,23 @@
 ### Hi there 👋
 
-<!--
-**mabras/mabras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mohamad Ibrahim 👋
 
-Here are some ideas to get you started:
+## About Me
+- 📫 How to reach me: `mohamad.abras` @ gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+### [Project Name]
+- Description: [Brief description]
+- Tech Stack: [Technologies used]
+- [Link to project]
+
+## Skills
+- Programming Languages: Ruby & JavaScript
+- Tools & Technologies: Ruby on Rails, Hotwire
+
+## Get in Touch
+- [LinkedIn]([link](https://www.linkedin.com/in/mabras/))
+- [Twitter]([link](https://x.com/m_abras))
+- [Personal Website](link)
 
 
