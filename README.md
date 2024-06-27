@@ -16,8 +16,8 @@
 - Tools & Technologies: Ruby on Rails, Hotwire
 
 ## Get in Touch
-- [LinkedIn]([link](https://www.linkedin.com/in/mabras/))
-- [Twitter]([link](https://x.com/m_abras))
+- [LinkedIn](https://www.linkedin.com/in/mabras)
+- [Twitter](https://x.com/m_abras)
 - [Personal Website](link)
 
 
